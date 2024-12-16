@@ -1,4 +1,4 @@
-# Multi Sample Clustering
+# Multi-Slide Clustering
 
 We provide a comprehensive summary and comparison of clustering methods for multi-slide ST data. We outline ten state-of-art ST clustering methods, including seven single-slide ST clustering methods and three multi-slide ST clustering methods, emphasizing crucial aspects such as the statistical or machine learning methodology employed, and the unique features specific to each method. We assess the performance of these methods using two simulation datasets and three real ST datasets. Additionally, we evaluate the effectiveness of data pre-processing methods, including Harmony for gene expression harmonization and PASTE for spatial coordinate alignment, for multi-slide data.
 
